@@ -1,0 +1,21 @@
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportMissingImports": "none",
+        "reportUndefinedVariable": "none",
+        "reportUnusedImport": "none",
+        "reportUnusedVariable": "none",
+        "reportDeprecatedModule": "none",
+        "reportDeprecatedCall": "none",
+        "reportDeprecatedAttr": "none",
+        "reportDeprecatedSubscript": "none"
+    },
+    "python.analysis.extraPaths": [
+        "libs\\libfs\\bin\\Debug\\net481",
+        "libs\\libcs\\bin\\Debug\\net481",
+        "libs\\libvb\\bin\\Debug\\net481"
+    ],
+    "python.autoComplete.extraPaths": [
+
+    ]
+}
